@@ -1,6 +1,7 @@
 <?php
 $nama  = "Moh. Samsul Amin";
 $usia  = "21 Tahun";"
+
 $kelas = "4C";
 $NIM   = "16090147";
 
